@@ -5,7 +5,7 @@
 ![Idioma](https://img.shields.io/badge/idioma-Portugu%C3%AAs%20(BR)-009c3b)
 ![Plataforma](https://img.shields.io/badge/plataforma-Nintendo%203DS-ce181e)
 ![Versão do jogo](https://img.shields.io/badge/vers%C3%A3o%20do%20jogo-USA-555)
-![Release](https://img.shields.io/github/v/release/0xdhx0/dragon-quest-8-3ds-ptbr?include_prereleases&label=patch)
+![Release](https://img.shields.io/github/v/release/dhverso/dragon-quest-8-3ds-ptbr?include_prereleases&label=patch)
 ![Uso](https://img.shields.io/badge/uso-n%C3%A3o--comercial-c0392b)
 
 Tradução de fã do **Dragon Quest VIII: Journey of the Cursed King** (Nintendo 3DS, versão americana).
@@ -119,7 +119,7 @@ Abra uma [issue](../../issues/new/choose) usando o formulário "Erro na traduç�
 
 ## 🙏 Créditos
 
-- **Tradução, revisão e ferramentas:** [0xdhx0](https://github.com/0xdhx0).
+- **Tradução, revisão e ferramentas:** [DHverso](https://github.com/dhverso).
 - **Fontes livres** usadas nas imagens: Anton, Arimo, Russo One e Rubik (licença OFL) e DejaVu (licença livre).
 
 **Como foi feita:** a tradução usou ferramentas de IA. Todo o texto foi traduzido a partir do inglês com o contexto da
