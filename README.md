@@ -120,6 +120,7 @@ Abra uma [issue](../../issues/new/choose) usando o formulário "Erro na traduç�
 ## 🙏 Créditos
 
 - **Tradução, revisão e ferramentas:** [DHverso](https://github.com/dhverso).
+- **Acompanhe o DHverso:** [site](https://dhverso.com.br), [YouTube](https://www.youtube.com/@dhversobr) e [X](https://x.com/dhverso).
 - **Fontes livres** usadas nas imagens: Anton, Arimo, Russo One e Rubik (licença OFL) e DejaVu (licença livre).
 
 **Como foi feita:** a tradução usou ferramentas de IA. Todo o texto foi traduzido a partir do inglês com o contexto da
